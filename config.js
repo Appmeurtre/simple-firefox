@@ -11,9 +11,9 @@ const CONFIG = {
 	// └─┘┴ ┴└─┘┴└─┘└─┘
 
 	// General
-	name: 'Yilmaz',
+	name: 'Yılmaz',
 	imageBackground: false,
-	openInNewTab: true,
+	openInNewTab: false,
 	twelveHourFormat: false,
 
 	// Greetings
@@ -32,8 +32,8 @@ const CONFIG = {
 	language: 'en', // More languages in https://openweathermap.org/current#multi
 
 	trackLocation: true, // If false or an error occurs, the app will use the lat/lon below
-	defaultLatitude: '37.775',
-	defaultLongitude: '-122.419',
+	defaultLatitude: '36.7867',
+	defaultLongitude: '31.4431',
 
 	// Autochange
 	autoChangeTheme: true,
@@ -59,33 +59,33 @@ const CONFIG = {
 		},
 		{
 			id: '2',
-			name: 'Mail',
-			icon: 'mail',
-			link: 'https://mail.protonmail.com/',
+			name: 'Youtube',
+			icon: 'youtube',
+			link: 'https://www.youtube.com/',
 		},
 		{
 			id: '3',
-			name: 'Todoist',
-			icon: 'trello',
-			link: 'https://todoist.com',
+			name: 'Twitter',
+			icon: 'twitter',
+			link: 'https://twitter.com/',
 		},
 		{
 			id: '4',
-			name: 'Calendar',
-			icon: 'calendar',
-			link: 'https://calendar.google.com/calendar/r',
+			name: 'Whatsapp',
+			icon: 'message-circle',
+			link: 'https://web.whatsapp.com/',
 		},
 		{
 			id: '5',
-			name: 'Reddit',
-			icon: 'glasses',
-			link: 'https://reddit.com',
+			name: 'Steam',
+			icon: 'gamepad',
+			link: 'https://store.steampowered.com/',
 		},
 		{
 			id: '6',
-			name: 'Odysee',
-			icon: 'youtube',
-			link: 'https://odysee.com/',
+			name: 'Docker',
+			icon: 'server',
+			link: 'https://docker.appmeurtre.live/',
 		},
 	],
 
@@ -135,24 +135,24 @@ const CONFIG = {
 	// First Links Container
 	firstlistsContainer: [
 		{
-			icon: 'music',
+			icon: 'mail',
 			id: '1',
 			links: [
 				{
-					name: 'Inspirational',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'Gmail',
+					link: 'https://mail.google.com/',
 				},
 				{
-					name: 'Classic',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'Proton',
+					link: 'https://mail.proton.me',
 				},
 				{
-					name: 'Oldies',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'Zoho',
+					link: 'https://mail.zoho.eu',
 				},
 				{
-					name: 'Rock',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'Outlook',
+					link: 'https://outlook.office365.com/mail/',
 				},
 			],
 		},
