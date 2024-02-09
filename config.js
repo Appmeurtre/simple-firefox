@@ -77,15 +77,15 @@ const CONFIG = {
 		},
 		{
 			id: '5',
-			name: 'Steam',
-			icon: 'gamepad',
-			link: 'https://store.steampowered.com/',
+			name: 'GameJobs',
+			icon: 'gamepad-2',
+			link: 'https://gamejobs.co/',
 		},
 		{
 			id: '6',
-			name: 'Docker',
-			icon: 'server',
-			link: 'https://docker.appmeurtre.live/',
+			name: 'OCI',
+			icon: 'hard-drive',
+			link: 'https://www.oracle.com/cloud/sign-in.html',
 		},
 	],
 
@@ -151,30 +151,30 @@ const CONFIG = {
 					link: 'https://mail.zoho.eu',
 				},
 				{
-					name: 'Outlook',
-					link: 'https://outlook.office365.com/mail/',
+					name: 'Tutamail',
+					link: 'https://mail.tutanota.com',
 				},
 			],
 		},
 		{
-			icon: 'coffee',
+			icon: 'waypoints',
 			id: '2',
 			links: [
 				{
-					name: 'Linkedin',
-					link: 'https://www.linkedin.com',
+					name: 'FMHY',
+					link: 'https://fmhy.pages.dev/',
 				},
 				{
-					name: 'Dribbble',
-					link: 'https://www.dribbble.com',
+					name: 'CGDL',
+					link: 'https://cgdownload.ru/',
 				},
 				{
-					name: 'Trello',
-					link: 'https://www.trello.com',
+					name: 'UE GAO',
+					link: 'https://unreal.gao-nn.com/',
 				},
 				{
-					name: 'Slack',
-					link: 'https://www.slack.com',
+					name: 'WinUtil',
+					link: 'https://xdaforums.com/t/windows-ultimate-collection-guides.4507867/',
 				},
 			],
 		},
