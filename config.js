@@ -71,9 +71,9 @@ const CONFIG = {
     },
     {
       id: "4",
-      name: "Whatsapp",
-      icon: "message-circle",
-      link: "https://web.whatsapp.com/",
+      name: "Tool Finder",
+      icon: "hammer",
+      link: "https://toolfinder.co/",
     },
     {
       id: "5",
